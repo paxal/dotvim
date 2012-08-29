@@ -18,3 +18,6 @@
 	path = bundle/zencoding
 	url = https://github.com/mattn/zencoding-vim/
 	ignore = dirty
+[submodule "bundle/tasklist"]
+	path = bundle/tasklist
+	url = https://github.com/vim-scripts/TaskList.vim.git
